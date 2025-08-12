@@ -1,0 +1,2 @@
+C:\Code\atlas-unity\beat-detection\Beat Detection\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Code\atlas-unity\beat-detection\Beat Detection\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
